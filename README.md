@@ -5,7 +5,7 @@
 I’m a Brazilian entrepreneur passionate about building smart digital solutions that make businesses run smoother.  
 Currently working on projects involving:
 
-- 🩺 **Scheduling platforms** with **Supabase** and **React**
+- 🩺 **Scheduling platforms...** with **Supabase** and **React**
 - 🤖 **WhatsApp automation**
 - 🌐 **Website development** with SEO & marketing focus
 - 📱 Mobile app prototyping with **FlutterFlow** & **Lovable**
